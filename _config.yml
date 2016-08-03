@@ -1,0 +1,14 @@
+layout_spectrum: 0.6721512340009212
+typography_spectrum: 0.8609302502591163
+color:
+  brandStrength: 0.5028836554847658
+  lightness: 0.9586507801432163
+  saturation: 0.5740784842055291
+  rhythmicContrast: 0.6766366099473089
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: First Site
